@@ -1,33 +1,3 @@
-/* Constantes */
-
-rodolfo.
-dagoberto.
-fito.
-juan.
-oscar.
-danny.
-jaco.
-bryan.
-nicky.
-jonathan.
-kevin.
-fernando.
-esteban.
-danielito.
-aura.
-gladys.
-irma.
-abby.
-amparo.
-ruth.
-sandra.
-raquel.
-andrea.
-melany.
-valeria.
-natalia.
-
-
 /* Relación: Generos */
 
 hombre(rodolfo).
